@@ -1,1 +1,3 @@
 # git-tut
+modifying readme.
+
